@@ -12,6 +12,8 @@ public class OBJECT {
 		//STATIC obj = new STATIC();
 		//System.out.println(obj.j);
 		//obj.myNum();
+		//
+		//
 		
 	}
 
